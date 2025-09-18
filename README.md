@@ -2,9 +2,9 @@
 Sales Call Quality Analyzer Project
 
 
-# Call Quality Analyzer 🚀
+# Call Quality Analyzer 
 
-## 🎯 Project Overview
+## Project Overview
 **Call Quality Analyzer** ek Python-based Voice AI project hai jo **sales call recordings** ka automated analysis karta hai.  
 Ye tool sales teams ko call performance measure karne, customer engagement samajhne, aur actionable insights provide karne me help karta hai.
 
@@ -18,7 +18,7 @@ Ye tool sales teams ko call performance measure karne, customer engagement samaj
 
 ---
 
-## 🌟 Features
+##  Features
 
 | Feature | Why it Matters |
 |---------|----------------|
@@ -51,7 +51,4 @@ Ye tool sales teams ko call performance measure karne, customer engagement samaj
    - **Sentiment Analysis**: Determines overall mood using `TextBlob`  
    - **Actionable Insight**: Generates practical suggestions  
 
----
-
-## 📂 GitHub Folder Structure
 
